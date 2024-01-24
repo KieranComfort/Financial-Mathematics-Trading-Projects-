@@ -1,1 +1,1 @@
-Experiments/reports completed during my final year of my BSc in Financial Mathematics. 
+Experiments/projects completed during my final year of my BSc in Financial Mathematics. 
